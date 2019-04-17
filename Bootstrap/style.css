@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+div.background {
+    background: blueviolet;
+    height: 25px;
+    clear: both;
+    margin: 10px 0;
+    font-size: 20px;
+    color: white;
+}
+
+label.title {
+    display: block;
+    font-size: 20px;
+    padding-left: 30px;
+    margin-top: 10px;
+    background: yellowgreen;
+}
+
+div.clear {
+    clear: both;
+}
