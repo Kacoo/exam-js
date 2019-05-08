@@ -33,7 +33,7 @@ function compare(v1, v2) {
 // 获取字符数最小的字符串的字串排列组合，如"abc"->['a','ab','abc']
 function combinations(s) {
     var temp = [];
-    sp = s[0];
+    var sp = s[0];
     temp.push(sp);
     for (var j = 1; j < s.length; j++) {
         sp = sp + s[j];
@@ -47,7 +47,7 @@ function combinations(s) {
 // function combinations(s) {
 //     var temp = [];
 //     for (var i = 0; i < s.length; i++) {
-//         sp = s[i];
+//         var sp = s[i];
 //         temp.push(sp);
 //         for (var j = i + 1; j < s.length; j++) {
 //             sp = sp + s[j];
