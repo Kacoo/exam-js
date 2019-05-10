@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/longest-common-prefix/
 var longestCommonPrefix = function () {
     // var strs = ["add", "adminus", "admultiple", "adivice"];
     var strs = ["ca", "a"];
