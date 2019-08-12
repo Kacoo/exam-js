@@ -1,3 +1,8 @@
+/**
+ * leetcode@Kacoo
+ * 27. remove-element
+ */
+
 var removeElement = function (nums, val) {
     for (var i = 0; i < nums.length;) {
         if (val == nums[i]) {

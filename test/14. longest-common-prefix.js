@@ -1,5 +1,10 @@
-// https://leetcode.com/problems/longest-common-prefix/
-var longestCommonPrefix = function () {
+/**
+ * leetcode@Kacoo
+ * 14. longest-common-prefix
+ * https://leetcode.com/problems/longest-common-prefix/
+ */
+
+ var longestCommonPrefix = function () {
     // var strs = ["add", "adminus", "admultiple", "adivice"];
     var strs = ["ca", "a"];
     newStrs = strs.sort(compare);

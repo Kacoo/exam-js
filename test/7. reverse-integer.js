@@ -1,4 +1,9 @@
-// https://leetcode.com/problems/reverse-integer/
+/**
+ * leetcode@Kacoo
+ * 7. reverse-integer
+ * https://leetcode.com/problems/reverse-integer/
+ */
+
 function getArray(num) {
     temp = Math.abs(num);
     var array = [];

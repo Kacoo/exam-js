@@ -1,5 +1,9 @@
-// 79. Word Search
-// https://leetcode.com/problems/word-search/
+/**
+ * leetcode@Kacoo
+ * 79. Word Search
+ * https://leetcode.com/problems/word-search/
+ */
+
 
 /**
  * @param {character[][]} board

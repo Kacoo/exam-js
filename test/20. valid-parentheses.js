@@ -1,4 +1,9 @@
-// https://leetcode.com/problems/valid-parentheses/
+/**
+ * leetcode@Kacoo
+ * 20. valid-parentheses
+ * https://leetcode.com/problems/valid-parentheses/
+ */
+
 var isValid = function (s) {
     if ("" == s) {
         return true;

@@ -1,4 +1,9 @@
-// https://leetcode.com/problems/longest-palindromic-substring/
+/**
+ * leetcode@Kacoo
+ * 5. longest-palindromic-substring 
+ * https://leetcode.com/problems/longest-palindromic-substring/
+ */
+
 /**
  * @param {string} s
  * @return {string}

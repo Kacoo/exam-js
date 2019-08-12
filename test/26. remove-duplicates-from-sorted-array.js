@@ -1,4 +1,9 @@
-// https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+/**
+ * leetcode@Kacoo
+ * 26. remove-duplicates-from-sorted-array
+ * https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+ */
+
 var removeDuplicates = function (nums) {
     for (var i = 0; i < nums.length;) {
         if (nums[i] == nums[i + 1]) {

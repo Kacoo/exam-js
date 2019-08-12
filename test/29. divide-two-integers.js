@@ -1,4 +1,9 @@
-// https://leetcode.com/problems/divide-two-integers/
+/**
+ * leetcode@Kacoo
+ * 29. divide-two-integers
+ * https://leetcode.com/problems/divide-two-integers/
+ */
+
 /**
  * @param {number} dividend
  * @param {number} divisor

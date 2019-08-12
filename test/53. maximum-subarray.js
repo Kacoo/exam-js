@@ -1,3 +1,7 @@
+/**
+ * leetcode@Kacoo
+ * 53. maximum-subarray 
+ */
 // var maxSubArray = function (nums) {
 //     var sum = 0;
 //     var flag = 0;
